@@ -1,3 +1,7 @@
+"""
+Hashing with collision avoidance by using chaining principle
+"""
+
 from typing import Generic, TypeVar, Optional
 
 
