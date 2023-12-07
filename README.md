@@ -1,2 +1,3 @@
-# Low_Level_Design_Python
-Solutions for Low Level Design problems using Python
+### Low-Level Design
+* Solutions for Low-Level Design problems using Python
+* Interview based problems
